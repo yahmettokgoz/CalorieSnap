@@ -9,7 +9,7 @@ This is an Expo project created with [`create-expo-app`](https://github.com/expo
 ```bash
 npm install
 
-```bash
+
 npx expo start
 
 In the output, you'll find options to open the app in a:
@@ -24,7 +24,7 @@ Expo Go, a limited sandbox for trying out app development with Expo
 
 When you're ready, run:
 
-```bash
+
 npm run reset-project
 
 This command will move the starter code to the app-example directory
